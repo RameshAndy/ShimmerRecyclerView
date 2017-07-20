@@ -27,9 +27,7 @@ import android.util.AttributeSet;
 import root.com.shimmerlist.R;
 
 
-/**
- * Created by sharish on 22/11/16.
- */
+
 
 public class ShimmerRecyclerView extends RecyclerView {
 
